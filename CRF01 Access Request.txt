@@ -1,21 +1,21 @@
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝[/color]
 [color=#006D5B][head=2]                    CHILD FORM: CRF01     [/head]
             -- This document is tied to Parent Form: PRF00--[/color]
 [italic]Access form does not require a parent form unless it is contexual.[/italic]
 
 [color=#006D5B][head=3]CHILD FORM:  Additional Access    [/head]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-          *Name:  
+      *Name:  
       *Request: To obtain the accesses listed below:
-[bullet/]
-[bullet/]
-   *Reasoning:
+      [bullet/]
+      [bullet/]
+      *Reasoning:
 
 -----------------------------------------------------------------------------
 [head=3]Filled out by Head of Personnel only: [/head]
@@ -40,5 +40,6 @@ Greytider               \[A]    \[ ]Chaplain
 
 STAMP BELOW
 =================================================
+
 
 
