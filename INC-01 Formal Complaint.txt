@@ -67,7 +67,7 @@ All sections of this form must be completed accurately and thoroughly.
 
 [italic]After you are done filling out this form, please submit it Head of Personnel or Captain for review. Please refrain from involving multiple commanding officers unless it is absolutely necessary.[/italic]
 [color=#000000]-----------------------------------------------------------------------------
-[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
 [italic](Tampering will result in denial and criminal charges)[/italic]
 
 Optional HoP Notes:
@@ -76,10 +76,11 @@ Optional HoP Notes:
 
 [color=#191970][bold]Stamps Required:[/bold]
 [mono]
-      Head of Personnel
+      [color=#334e6d]Head of Personnel
 [/mono]
-[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
