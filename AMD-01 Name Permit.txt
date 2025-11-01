@@ -13,9 +13,9 @@
 
 Please provide the crew member’s current name, species, and the desired name.
 [bold]
-      Current Name: 
+      Current name: 
       Species: 
-      Desired Name: 
+      Desired name: 
 [/bold] 
 [color=#000000]-----------------------------------------------------------------------------
 [color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
