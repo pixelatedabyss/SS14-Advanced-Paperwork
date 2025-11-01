@@ -9,7 +9,7 @@
 
 [color=#028a0f][head=3]Authorization - Material Request[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]This form is used to request materials from the Head of Personnel.
+[color=#1b67a5]This form is used to request materials from the Head of Personnel directly.
 
 It should only be used in cases of dire need; routine material requests must be submitted through the appropriate departmental request terminal.
 
