@@ -1,4 +1,4 @@
-                                                                                 [color=#cb0000][head=2]AMD-02[/head]
+                                                                                 [color=#cb0000][head=2]INC-01[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -21,45 +21,51 @@ All sections of this form must be completed accurately and thoroughly.
       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [/bold]
 [head=2]Section B[/head]
-You are complaining about:
+
+[italic]You are complaining about:[/italic]
 [bold]
    \[  ] Personnel    \[  ] A Department    \[  ] Other[/bold]
    [italic]If other, please skip to Section C.[/italic]
 
-The person/department works in/is one of the following:
+[italic]The person/department works in/is one of the following:[/italic]
 [bold]
    \[  ] CentCom   \[  ] Command       \[  ] Security
    \[  ] Cargo         \[  ] Engineering    \[  ] Science
    \[  ] Medical      \[  ] Service             \[  ] Other
 [/bold]
-If you are complaining about a person, please provide their name.
+[italic]If you are complaining about a person, please provide their name.[/italic]
 [bold]
    Name:             
    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [/bold]
-Please choose category(s) of misconduct the person or department has committed.
+[italic]Please choose category(s) of misconduct the person or department has committed.[/italic]
 [bold]
-   \[  ] Violation of Space Law    \[  ] Acting against NT interests
-   \[  ] Destruction of Property   \[  ] Causing a disturbance
-   \[  ] "Unspeakable Acts"        \[  ] Sabotage of equipment
-   \[  ] Theft of Property               \[  ] Overly Bureaucratic
-   \[  ] Overly Rude/Mean            \[  ] Not Bureaucratic Enough
+   \[  ] Violation of Space Law
+   \[  ] Acting against NT interests
+   \[  ] Destruction of property
+   \[  ] Causing a disturbance
+   \[  ] "Unspeakable Acts"
+   \[  ] Sabotage of equipment
+   \[  ] Theft of property
+   \[  ] Unprofessional attitude
    \[  ] Bad Vibes / Irritation
    \[  ] Other:
    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]
+[/bold]
 [italic]How many people are affected by the misconduct?[/italic]
-\[  ] Just Me    \[  ] A few people    \[  ] A department worth
-\[  ] Multiple Departments worth    \[  ] Whole Station
-
+[bold]
+\[  ] Me   \[  ] Multiple people   \[  ] My department
+\[  ] Multiple departments      \[  ] Whole station
+[/bold]
 [head=2]Section C[/head]
-[bold]Please provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+
+[italic]Please provide a detailed explanation of the misconduct below, providing all relevant details.[/italic]
 
 
 
 
-[bold]After you are done filling out this form, please either submit it to the Captain, the HoP, another relevant command head, or to CentCom via fax for review. Please refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold]
-[/bold] 
+
+[italic]After you are done filling out this form, please submit it Head of Personnel or Captain for review. Please refrain from involving multiple commanding officers unless it is absolutely necessary.[/italic]
 [color=#000000]-----------------------------------------------------------------------------
 [color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
 [italic](Tamper will result in denial and criminal charges)[/italic]
