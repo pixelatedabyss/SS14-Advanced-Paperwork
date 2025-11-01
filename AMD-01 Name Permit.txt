@@ -19,7 +19,7 @@ Please provide the crew member’s current name, species, and the desired name.
 [/bold] 
 [color=#000000]-----------------------------------------------------------------------------
 [color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
-[italic](Tamper will result in denial and criminal charges)[/italic]
+[italic](Tampering will result in denial and criminal charges)[/italic]
 
 Optional HoP Notes:
 
@@ -31,6 +31,7 @@ Optional HoP Notes:
 [/mono]
 [color=#006D5B][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
