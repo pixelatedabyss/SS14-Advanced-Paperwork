@@ -1,4 +1,4 @@
-                                                                                     [color=#ff5c00][head=2]AUT-02[/head]
+                                                                                     [color=#1b67a5][head=2]AUT-02[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -89,6 +89,7 @@ Optional HoP Notes:
 [/mono]
 [color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
