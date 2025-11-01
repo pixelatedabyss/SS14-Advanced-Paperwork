@@ -50,16 +50,16 @@ Method of termination:
       \[ ] Lethal injection
       \[ ] Blunt force trauma
       \[ ] Electrocution
-      [color=808080][italic]\[Requires approval from Chief Engineer][/italic][/color]
+      [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
       \[ ] Asphyxiation/Gassing
-      [color=808080][italic]\[Requires approval from Chief Engineer][/italic][/color]
+      [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
       \[ ] Burning
-      [color=808080][italic]\[Requires approval from Chief Engineer][/italic][/color]
+      [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
       \[ ] Spacing
       \[ ] Firing squad
-      [color=808080][italic]\[Requires approval from Head of Security][/italic][/color]
+      [color=808080][italic](Requires approval from Head of Security)[/italic][/color]
       \[ ] Explosion
-      [color=808080][italic]\[Requires approval from Captain][/italic][/color]
+      [color=808080][italic](Requires approval from Captain)[/italic][/color]
       \[ ] Other:
       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [/bold]
