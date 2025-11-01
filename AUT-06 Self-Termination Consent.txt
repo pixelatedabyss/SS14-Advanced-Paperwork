@@ -31,16 +31,16 @@ Reason for self-termination:
       \[ ] To reduce strain on station resources
       \[ ] To donate organs
             \[ ] to science for research purposes
-            [color=808080][italic]\[Requires approval from Research Director][/italic][/color]
+            [color=808080][italic](Requires approval from Research Director)[/italic][/color]
             \[ ] to cargo to fulfill bounty
-            [color=808080][italic]\[Requires approval from Quartermaster][/italic][/color]
+            [color=808080][italic](Requires approval from Quartermaster)[/italic][/color]
             \[ ] to kitchen for food
-            [color=808080][italic]\[Requires approval from Head of Security and Chef][/italic][/color]
+            [color=808080][italic](Requires approval from Head of Security and Chef)[/italic][/color]
       \[ ] Mental fatigue and/or existential burnout
-      [color=808080][italic]\[Requires approval from Psychologist if available][/italic][/color]
+      [color=808080][italic](Requires approval from Psychologist if available)[/italic][/color]
       \[ ] Guilt or shame over workplace accidents
       \[ ] Religious reasons
-      [color=808080][italic]\[Requires approval from Chaplain if available][/italic][/color]
+      [color=808080][italic](Requires approval from Chaplain if available)[/italic][/color]
       \[ ] Other:
       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [/bold]Please state your preferred method of termination below. While your preference will be taken into consideration, it may not always be possible to accommodate. You will be given the opportunity to rescind your consent if your preferred method is unavailable. Note that certain methods may be restricted depending on the purpose of self-termination, such as cases where organ preservation is required.
