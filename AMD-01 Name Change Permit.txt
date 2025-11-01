@@ -1,0 +1,37 @@
+                                                                                     [color=#ff5c00][head=2]AMD-01[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#ff5c00][head=3]Amendment - Name Change Permit[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form facilitates the correction or update of a crew member’s name on their ID card.
+
+Please provide the crew member’s current name, species, and the desired name.
+[bold]
+      Current Name: 
+      Species: 
+      Desired Name: 
+[/bold] 
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tamper will result in denial and criminal charges)[/italic]
+
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      Head of Personnel
+[/mono]
+[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+
+
+
+
