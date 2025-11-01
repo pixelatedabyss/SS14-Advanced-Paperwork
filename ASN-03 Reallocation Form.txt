@@ -1,4 +1,4 @@
-                                                                                     [color=#6F42C1][head=2]ASN-03[/head]
+                                                                                     [color=#6f42c1][head=2]ASN-03[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#6F42C1][head=3]Assignment - Reallocation[/head]
+[color=#6f42c1][head=3]Assignment - Reallocation[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to request a reallocation of duties or responsibilities within your current department aboard the station. Requests are evaluated on a case-by-case basis and must be supported by demonstrated experience, qualifications, and suitability for the new role.
 
