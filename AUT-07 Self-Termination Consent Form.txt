@@ -53,7 +53,7 @@ Method of termination:
       [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
       \[ ] Asphyxiation/Gassing
       [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
-      \[ ] Burning
+      \[ ] Incineration
       [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
       \[ ] Spacing
       \[ ] Firing line
