@@ -1,0 +1,51 @@
+                                                                                     [color=#6F42C1][head=2]ASN-02[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#6F42C1][head=3]Assignment - Demotion[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to submit a formal demotion for personnel aboard the station, typically resulting from disciplinary action.
+
+[bold]This form may only be completed by members of Command.[/bold]
+
+All sections of this form must be completed accurately and thoroughly. The demotion may include reduction in rank, responsibilities, or privileges, as determined by Command.
+
+Please provide all relevant details in the sections below.
+[bold]
+      Name: 
+      Current role:
+      Demoted role:
+      Department:
+      Reason for demotion:
+
+
+
+      Current supervisor:
+      Supervisor role:
+[/bold]
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form reference number: 
+Optional notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps required:[/bold]
+[mono]
+      [color=#334e6d]Captain
+      [color=#334e6d]Head of Personnel
+      [color=#de3a3a]Head of Security
+      [color=#efb341]Chief Engineer
+      [color=#d381c9]Research Director
+      [color=#52b4e9]Chief Medical Officer
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
