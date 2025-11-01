@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#028a0f][head=3]Authorization - Borgification Permission[/head]
+[color=#028a0f][head=3]Authorization - Borgification Consent[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to request voluntary conversion into a cyborg unit under the supervision of the Research department.
 
