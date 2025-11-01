@@ -24,7 +24,7 @@ I hereby grant permission to the station’s Science department to perform the n
 
 I understand the procedure may result in the following:
 [bold]
-      [bullet/] Partial or complete memory loss
+			[bullet/] Partial or complete memory loss
 			[bullet/] Generalized pain affecting all body regions
 			[bullet/] Risk of behavioral alteration from hostile interference
 			[bullet/] Potential unauthorized modification by Clowns
@@ -68,6 +68,7 @@ Optional HoP Notes:
 [/mono]
 [color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
