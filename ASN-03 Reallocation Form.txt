@@ -1,0 +1,49 @@
+                                                                                     [color=#6F42C1][head=2]ASN-03[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#6F42C1][head=3]Assignment - Reallocation[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request a reallocation of duties or responsibilities within your current department aboard the station. Requests are evaluated on a case-by-case basis and must be supported by demonstrated experience, qualifications, and suitability for the new role.
+
+Approval is subject to review by the applicant’s direct supervisor or relevant Command personnel. Reallocation is strictly limited to roles within the same department; requests to transfer to a different department require a separate form.
+
+Please provide all relevant details in the sections below.
+[bold]
+      Name: 
+      Current role:
+      Desired role:
+      Department:
+      Relevant Experience/Qualifications:
+
+
+
+      Current supervisor:
+      Supervisor role:
+[/bold]
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form reference number: 
+Optional notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps required:[/bold]
+[mono]
+      [color=#334e6d]Captain
+      [color=#334e6d]Head of Personnel
+      [color=#de3a3a]Head of Security
+      [color=#efb341]Chief Engineer
+      [color=#d381c9]Research Director
+      [color=#52b4e9]Chief Medical Officer
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
