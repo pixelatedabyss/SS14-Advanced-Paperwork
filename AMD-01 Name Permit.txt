@@ -1,4 +1,5 @@
-                                                                                     [color=#ff5c00][head=2]AMD-01[/head]
+
+                                                                                                                                                                          [color=#ff5c00][head=2]AMD-01[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -35,5 +36,4 @@ Optional HoP Notes:
 
 
 
-
-
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
