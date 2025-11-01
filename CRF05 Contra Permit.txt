@@ -1,62 +1,61 @@
-#Contra Permit CR05
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-[color=#006D5B][head=2]                    CHILD FORM: CRF05     [/head]
-                 -- This document is tied to Parent Form: PRF00--[/color]
-                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
-     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█    
-Due to length, this permit has been stored as a rotulus scroll sporting two umbilici, please be careful when brandishing.
+                                                                                     [color=#ff5c00][head=2]AUT-02[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
 
-[color=#006D5B][head=3]CHILD FORM: Individual Contraband Permit   [/head]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-                 *Name:  
-*Individual Item:
+[color=#028a0f][head=3]Authorization - Contraband Permit[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request a permit to possess and utilize contraband.
 
-Until approved or denied, this contraband will be securely withheld from me and the security team by a third party.
+Requests are evaluated on a case-by-case basis, and permits may be revoked at any time by the Head of Personnel or the Captain. Until this request is approved or denied, the contraband in question will be securely held by Security or a member of Command.
 
-Item Description:
+By submitting this request, you agree to surrender the contraband and acknowledge that if the request is denied, the items will not be returned.
 
-What is the specific use case of the item:
+Please provide all relevant details in the sections below.
+[bold]
+      Name: 
+      Item(s):
+      Item Description: 
 
-How I got this:
-\[ ] Salvage/Salvager Trade
-\[ ] Maintenance Locker
-\[ ] Syndicate Representative
-\[ ] Crafted
-\[ ] Anonymous Stranger/Discarded in Hallway
-\[ ] Named Dealer: 
-\[ ] Other
-
+      Intended use of item: 
+[/bold]
+Origin of item:
+[bold]
+      \[ ] Salvage/Salvager Trade
+      \[ ] Maintenance Locker
+      \[ ] Syndicate Representative
+      \[ ] Crafted
+      \[ ] Anonymous Stranger/Discarded in Hallway
+      \[ ] Named Dealer: 
+      \[ ] Other:
+      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[/bold]
 I agree to never:
-\[ ] Damage the station core infrastructure.
-\[ ] Harm command staff with this item.
-\[ ] Harm a security officer with this item.
-\[ ] Harm crew members with this item.
-\[ ] Damage station equipment with this Item
+[bold]
+      \[ ] Damage core station infrastructure.
+      \[ ] Harm any member of the crew with this item.
+      \[ ] Damage station equipment with this item.
+      \[ ] Use this item in violation of Space Law.
 
-\[ ] I acknowledge that if approved, breach of this agreement I consent to any of the following punishments listed below chosen by the Captain.
-
-
------------------------------------------------------------------------------
-[head=3]Filled out by Captain only: [/head]
+      \[ ] I understand that, if approved, violation
+          of this agreement may incur any of the
+          punishments listed below, as determined by
+          the Captain.
+[/bold]
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006D5B][head=3]Filled out by Captain only: [/head]
 (Tamper will result in denial and criminal charges)
-
-Emergency to Validate Use (This reason will be reviewed by CentComm at the end of shift):
-
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 Captain Fills out this Section, HoS will select from chosen options upon breach of the permit:
 
 \[ ] Permanently assigned a Parole Officer
-\[ ] 'Walk of Shame' through a parade route to security for standard sentencing, throwing tomatos is encouraged.
-\[ ] Full Demotion to passenger, and a ban on any promotion, due to being a threat to the station.
-\[ ] Permanent Brigging due to intentional perjury and exploitation of a permit made in good faith.
-\[ ] Exile From the Station, utilizing the Cargo Shuttle and a Security Detail accompanied by a Kill on Sight order upon returning from drop off.
+\[ ] Full demotion to passenger, and a ban on any future promotion.
+\[ ] Permanent confinement
+\[ ] Exile From the station, utilizing the shuttle with accompanied security.
 
 Optional Serial Identification Number: 000000
 If used, please label the single item with the matching serial number. Deviance invalidates the permit.
@@ -65,8 +64,21 @@ If denied, the Captain is required to provide a reason, otherwise this request c
 The Head of Security may also deny this request even if approved Captain if they believe the emrgency to be invalid according to Space Law regulations.
 \[ ] 'No Exception' Ban on Syndicate Contraband Possession.
 Otherwise, Mandatory Individual Reason For Denial:
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tamper will result in denial and criminal charges)[/italic]
+
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      Head of Personnel
+[/mono]
+[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
 
 
 
-STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
-===================================================
+
