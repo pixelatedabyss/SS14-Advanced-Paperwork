@@ -1,0 +1,39 @@
+                                                                                     [color=#ff5c00][head=2]AMD-02[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#ff5c00][head=3]Amendment - Job Title Change Permit[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to change the job title of the crew member in question.
+
+Please provide the crew member’s current job title, name, and the requested title.
+
+[italic]Note: Unreasonable or inappropriate requests will be automatically denied.[/italic]
+[bold]
+      Current Title: 
+      Name: 
+      Desired Title: 
+[/bold] 
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tamper will result in denial and criminal charges)[/italic]
+
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      Head of Personnel
+[/mono]
+[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+
+
+
+
