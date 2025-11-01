@@ -1,4 +1,4 @@
-                                                                                     [color=#6F42C1][head=2]ASN-04[/head]
+                                                                                     [color=#6f42c1][head=2]ASN-04[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#6F42C1][head=3]Assignment - Transfer[/head]
+[color=#6f42c1][head=3]Assignment - Transfer[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to request a transfer to a different department aboard the station. Requests are evaluated on a case-by-case basis and must be supported by demonstrated experience, qualifications, and suitability for the new department. Approval is subject to review by the applicant’s current and prospective department heads or Command personnel, and may be revoked if requirements are not met or if the transfer is later deemed inappropriate.
 
