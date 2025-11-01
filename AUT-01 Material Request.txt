@@ -1,0 +1,40 @@
+                                                                                     [color=#028a0f][head=2]AUT-01[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#028a0f][head=3]Authorization - Material Request[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request materials from the Head of Personnel.
+
+It should only be used in cases of dire need; routine material requests must be submitted through the appropriate departmental request terminal.
+
+[italic]Note: Unreasonable or inappropriate requests will be automatically denied.[/italic]
+[bold]
+      Materials requested:
+
+
+      Reasoning: 
+[/bold] 
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tamper will result in denial and criminal charges)[/italic]
+
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      Head of Personnel
+[/mono]
+[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+
+
+
+
