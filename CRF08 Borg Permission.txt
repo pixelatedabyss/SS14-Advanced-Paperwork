@@ -13,14 +13,14 @@
 
 [bold]Applicants must understand that this process is irreversible and will result in the complete replacement of biological components with mechanical systems.[/bold]
 
-Please ensure all sections are completed accurately.
+Please provide your signature in all areas indicated.
 
 [italic]Note: Requests made under duress or without medical clearance will be denied.[/italic]
 
-[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]I
-
-hereby grant permission to the station’s Science department to perform the necessary procedures required for my conversion into a cyborg unit. This document serves as my statement of informed and voluntary consent.As a volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red][bolditalic]PERMANENT[/bolditalic][/color] operation.
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[color=#1b67a5][bold]
+			Name: 
+[/bold]
+I hereby grant permission to the station’s Science department to perform the necessary procedures required for my conversion into a cyborg unit. This document serves as my statement of informed and voluntary consent. As a volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red][bolditalic]PERMANENT[/bolditalic][/color] operation.
 
 I understand the procedure may result in the following:
 [bold]
@@ -44,11 +44,13 @@ Risks to successful consciousness transference include:
 As a volunteer, I understand that, upon conversion into a Cyborg or related silicon entity, I will be bound by strict Silicon Laws. Failure to comply with these laws may result in disciplinary action by Science Department personnel, including possible deactivation.
 
 I further acknowledge that I am prohibited from allowing or performing any modifications to my Silicon Laws, except when such interference would directly conflict with an existing law.
-	
-	I, [color=#002AAF]               [/color],
-	‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-	Sign my name once more to verify i have read the above warnings.
-[/bold] 
+
+Please provide three additional signatures to confirm acknowledgment of the above.
+[bold]
+			Name: 
+			Name: 
+			Name: 
+[/bold]
 [color=#000000]-----------------------------------------------------------------------------
 [color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
 [italic](Tampering will result in denial and criminal charges)[/italic]
@@ -61,11 +63,12 @@ Optional HoP Notes:
 [color=#191970][bold]Stamps Required:[/bold]
 [mono]
       [color=#334e6d]Head of Personnel
-			[color=#d381c9]Research Director
-			[color=#52b4e9]Chief Medical Officer
+      [color=#d381c9]Research Director
+      [color=#52b4e9]Chief Medical Officer
 [/mono]
 [color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
