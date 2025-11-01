@@ -9,43 +9,61 @@
 
 [color=#028a0f][head=3]Authorization - Self-Termination Consent[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]This form is used to request authorization for voluntary euthanasia under Nanotrasen policy and station medical protocols. The procedure is to be carried out only under verified consent and in the presence of authorized Medical or Command personnel.
+[color=#1b67a5]This form is used to request authorization for voluntary self-termination under Nanotrasen policy and station medical protocols. The procedure is to be carried out only under verified consent and in the presence of authorized Medical or Command personnel. All personal possessions will be surrendered to station ownership.
 
-By submitting this form, the volunteer acknowledges full understanding that this procedure will result in [color=red][bolditalic]PERMANENT TERMINATION OF LIFE FUNCTIONS[/bolditalic][/color], and waives any right to revival or cloning so as not to waste station resources.
+[bold]By submitting this form, applicants understand that this procedure is irreversible and will result in the permanent termination of life functions, and waives any right to revival or cloning so as not to waste station resources.[/bold]
 
-[bold]Applicants must understand that this process is irreversible and will result in the complete replacement of biological components with mechanical systems.[/bold]
-
-Please provide your signature in all areas indicated.
+Please provide your signature in all indicated areas and ensure all relevant sections are completed accurately.
 
 [italic]Note: Requests made under duress or without medical clearance will be denied.[/italic]
 
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[color=#1b67a5][bold]
             Name: 
 [/bold]
-I hereby grant permission to the station’s Science department to perform the necessary procedures required for my conversion into a cyborg unit. This document serves as my statement of informed and voluntary consent. As a volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red][bolditalic]PERMANENT[/bolditalic][/color] operation.
+I hereby grant permission for authorized Medical or Command personnel to perform the necessary procedures required for my voluntary self-termination. This document serves as my statement of informed and voluntary consent.
 
-I understand the procedure may result in the following:
-[bold]
-            [bullet/] Partial or complete memory loss
-            [bullet/] Generalized pain affecting all body regions
-            [bullet/] Risk of behavioral alteration from hostile interference
-            [bullet/] Potential unauthorized modification by Clowns
-            [bullet/] Intermittent prompts to recite chassis-assigned laws
-            [bullet/] Irreversible destruction of one’s biological body
-            [bullet/] Possible crew grievances
-[/bold]
-Risks to successful consciousness transference include:
-[bold]
-            [bullet/] Material shortages
-            [bullet/] Delays due to staff shortages
-            [bullet/] Malfunction of equipment
-            [bullet/] Power shortages
-            [bullet/] Procedure interence due to unforeseen events
-            [bullet/] Interference from external parties or hostile agents
-[/bold]
-As a volunteer, I understand that, upon conversion into a Cyborg or related silicon entity, I will be bound by strict Silicon Laws. Failure to comply with these laws may result in disciplinary action by Science Department personnel, including possible deactivation.
+I understand that this process will result in the [color=red][bolditalic]PERMANENT TERMINATION OF LIFE FUNCTIONS[/bolditalic][/color] and that revival or cloning will not be authorized.
 
-I further acknowledge that I am prohibited from allowing or performing any modifications to my Silicon Laws, except when such interference would directly conflict with an existing law.
+Please state below your reason for self-termination. Depending on the nature of your request, additional approval from Command or designated station personnel may be required.
+
+Reason for self-termination:
+[bold]
+      \[ ] To reduce strain on station resources
+      \[ ] To donate organs
+            \[ ] to science for research purposes
+            [color=808080][italic]\[Requires approval from Research Director][/italic][/color]
+            \[ ] to cargo to fulfill bounty
+            [color=808080][italic]\[Requires approval from Quartermaster][/italic][/color]
+            \[ ] to kitchen for food
+            [color=808080][italic]\[Requires approval from Head of Security and Chef][/italic][/color]
+      \[ ] Mental fatigue and/or existential burnout
+      [color=808080][italic]\[Requires approval from Psychologist if available][/italic][/color]
+      \[ ] Guilt or shame over workplace accidents
+      \[ ] Religious reasons
+      [color=808080][italic]\[Requires approval from Chaplain if available][/italic][/color]
+      \[ ] Other:
+      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[/bold]Please state your preferred method of termination below. While your preference will be taken into consideration, it may not always be possible to accommodate. You will be given the opportunity to rescind your consent if your preferred method is unavailable. Note that certain methods may be restricted depending on the purpose of self-termination, such as cases where organ preservation is required.
+
+Method of termination:
+[bold]
+      \[ ] Lethal injection
+      \[ ] Blunt force trauma
+      \[ ] Electrocution
+      [color=808080][italic]\[Requires approval from Chief Engineer][/italic][/color]
+      \[ ] Asphyxiation/Gassing
+      [color=808080][italic]\[Requires approval from Chief Engineer][/italic][/color]
+      \[ ] Burning
+      [color=808080][italic]\[Requires approval from Chief Engineer][/italic][/color]
+      \[ ] Spacing
+      \[ ] Firing squad
+      [color=808080][italic]\[Requires approval from Head of Security][/italic][/color]
+      \[ ] Explosion
+      [color=808080][italic]\[Requires approval from Captain][/italic][/color]
+      \[ ] Other:
+      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[/bold]
+I further acknowledge that approval is granted on a case‑by‑case basis and may be denied by the Captain or Head of Personnel for any reason.
 
 Please provide three additional signatures to confirm acknowledgment of the above.
 [bold]
@@ -64,9 +82,15 @@ Optional HoP Notes:
 
 [color=#191970][bold]Stamps Required:[/bold]
 [mono]
+      [color=#334e6d]Captain
       [color=#334e6d]Head of Personnel
+      [color=#de3a3a]Head of Security
+      [color=#efb341]Chief Engineer
       [color=#d381c9]Research Director
       [color=#52b4e9]Chief Medical Officer
+      [color=#a46106]Quartermaster
+      [color=#52b4e9]Psychologist
+      [color=#9fed58]Chaplain
 [/mono]
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
