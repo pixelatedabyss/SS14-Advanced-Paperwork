@@ -1,0 +1,39 @@
+                                                                                     [color=#028a0f][head=2]AUT-01[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#028a0f][head=3]Authorization - Access Request[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request materials from the Head of Personnel.
+
+It should only be used in cases of dire need; routine material requests must be submitted through the appropriate departmental request terminal.
+
+[italic]Note: Unreasonable requests will be automatically denied.[/italic]
+[bold]
+      Materials requested:
+
+
+      Reasoning: 
+[/bold] 
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tamper will result in denial and criminal charges)[/italic]
+
+Form reference number: 
+Optional notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      [color=#334e6d]Head of Personnel
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
+
