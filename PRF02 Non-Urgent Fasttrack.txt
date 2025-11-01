@@ -1,50 +1,69 @@
-#Non-Urgent Fasttrack PRF02 
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-[color=#ff5c00][head=2]                 PARENT FORM: PRF00     [/head]
-                 -- This document is tied to Child Forms:--         [/color]
-                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
-     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█ 
-(* = A Required Field)
+                                                                                 [color=#cb0000][head=2]INC-04[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
 
-[color=#ff5c00][head=3]PARENT FORM:    NON-URGENT FASTTRACK        [/color][/head]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-This document cuts down the required information for the parent ticket due to the simplicity of the request.
-This relies on the professionalism of the HoP and their verbal interview to the listed crew below.
+[color=#cb0000][head=3]Incident - Theft Report[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to report the theft of station property, personal property, or unauthorized appropriation of resources. All sections must be completed accurately to ensure proper investigation and potential disciplinary action.
 
-          *Name:  
-      *Request:
+[head=2]Section A[/head]
+[bold]
+      Victim name:   
+      Victim role:   
 
-[bold]Important Note:[/bold] If this form has child forms attached to it, ONLY the name will be required on them and any stamps specified. The rest of the necessary portions will be filled by the HoP.
+      Reporter name:
+      Reporter role:
+      [italic]If the reporter is the same as the victim, leave blank.[/italic]
+[/bold]
+[head=2]Section B[/head]
+[bold]
+      Location of incident:
+      Suspected individual(s) (if known):
+      Description of stolen item(s):
+      Witnesses (if any):
 
------------------------------------------------------------------------------
-[head=3]Filled out by Head of Personnel only: [/head]
-(Tamper will result in denial and criminal charges)
+      Item Severity:
+            \[  ] Minor [italic](Personal effects, clothing, common tools)[/italic]
+            \[  ] Moderate [italic](Staff IDs, specialist tools, raw material)[/italic]
+            \[  ] Major [italic](Command staff ID, irreplaceable parts)[/italic]
+
+      Is the item contraband?
+      Is the item a weapon?
+
+      Detailed description of events leading to the theft:
 
 
-Child Forms? (y/n): Y
 
-Optional Notes from HoP:
 
-[bold]*Stamps Required: HoP will adjust as needed.[/bold]
- Form is validated by the HoP stamp, approved separately.
- (A = Alternative if the primary is unavailable, not assured.)
 
-Approved                \[X]   \[X] Head of Personnel
-Captain                   \[A]    \[ ] Head of Security
-Quartermaster      \[ ]    \[ ] Chief Engineer
-Research Director \[ ]    \[ ]  Chief Medical Officer
-Warden                    \[ ]    \[ ] Detective
-Clown                       \[ ]    \[ ] Mime
-Lawyer                     \[ ]    \[ ] Psychologist
-Trader                     \[ ]    \[ ] Syndicate
-Greytider               \[A]    \[ ]Chaplain
-(A Greytider stamp will function as a Captain's stamp)
+      Immediate action taken:
 
-STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
-===================================================
+
+
+
+
+
+
+[italic]After you are done filling out this form, please submit it Head of Personnel or Captain for review. Please refrain from involving multiple commanding officers unless it is absolutely necessary.[/italic]
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form Reference Number: 
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      [color=#334e6d]Head of Personnel
+      [color=#de3a3a]Head of Security
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
