@@ -1,32 +1,28 @@
-#Borg Form CRF08
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-[color=#006D5B][head=2]                    CHILD FORM: CFR08     [/head]
-                 -- This document is tied to Parent Form: PFR00 --         [/color]
-                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
-     █▄ █ [bold]Author: Moomoobeef[/bold] █ ▀█      
-So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
-(* = A Required Field)
+                                                                                     [color=#028a0f][head=2]AUT-07[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
 
-[color=#006D5B][head=3]CHILD FORM:  Borg Request    [/head]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-Borg Chassis Preferences:
-[bullet/]
-[bullet/]
+[color=#028a0f][head=3]Authorization - Borgification Permission[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request voluntary conversion into a cyborg unit under the supervision of the Research department.
 
-This form is to signify that a member of the crew wishes to be made into a cyborg, and to act as an Informed Consent form for the required operation.
+[bold]Applicants must understand that this process is irreversible and will result in the complete replacement of biological components with mechanical systems.[/bold]
 
+Please ensure all sections are completed accurately.
 
-	I, [color=#002AAF]               [/color],
-	‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-	Hereby give permission for the station's Science Department to preform the necessary operation(s) to turn me into a Cyborg or related Silicon.
-	
-	As a Volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red]PERMANENT[/color] Operation. As such, it cannot be reversed, and may result in the following:
+[italic]Note: Requests made under duress or without medical clearance will be denied.[/italic]
+
+[color=#000000]-----------------------------------------------------------------------------
+[color=#1b67a5]
+I hereby grant permission to the station’s Science department to perform the necessary procedures required for my conversion into a cyborg unit. This document serves as my statement of informed and voluntary consent.
+
+			As a volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red][bolditalic]PERMANENT[/bolditalic][/color] operation.
+	I understand the procedure may result in the following:
 		[bullet/] Memory loss
 		[bullet/] Discomfort in the Brain or similar areas
 		[bullet/] Possible tampering with personality by parties hostile to Nanotransen©
@@ -43,9 +39,30 @@ This form is to signify that a member of the crew wishes to be made into a cybor
 	I, [color=#002AAF]               [/color],
 	‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 	Sign my name once more to verify i have read the above warnings.
-	
-▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+[/bold] 
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form Reference Number: 
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      [color=#334e6d]Head of Personnel
+[/mono]
+[color=#006d5b][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
 
 
-STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
-==========================================================================
+
+
+
+
+
+
+
+
+
