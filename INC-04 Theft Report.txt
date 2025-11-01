@@ -47,8 +47,6 @@
 
 
 
-
-
 [italic]After you are done filling out this form, please submit it Head of Personnel or Captain for review. Please refrain from involving multiple commanding officers unless it is absolutely necessary.[/italic]
 [color=#000000]-----------------------------------------------------------------------------
 [color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
@@ -67,5 +65,3 @@ Optional HoP Notes:
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
 [color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
-
-
