@@ -1,0 +1,45 @@
+                                                                                     [color=#028a0f][head=2]AUT-04[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#028a0f][head=3]Authorization - Commercial Permit[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request permission to operate a commercial venture aboard the station. Requests are evaluated on a case-by-case basis, and permits may be revoked at any time by the Head of Personnel or the Captain.
+
+You may only open a store aboard the station if you hold no other active duties. If you currently hold a role aboard the station and wish to operate a store, you must voluntarily relinquish your current title when submitting this form for approval.
+
+Please provide all relevant details in the sections below.
+[bold]
+      Name: 
+      Current role:
+
+      Store name:
+      Store location:
+      [color=808080][italic](Store locations must be public and not impede foot traffic.)[/color][/italic]
+
+      Type of Store:
+      Goods and Services offered:
+
+
+
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form Reference Number: 
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      [color=#334e6d]Head of Personnel
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
