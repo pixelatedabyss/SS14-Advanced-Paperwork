@@ -1,52 +1,47 @@
-#Promotion PTF07 
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                    PARENT FORM: PTF07     [/head]
-                 -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
-(* = A Required Field)
+                                                                                     [color=#6F42C1][head=2]ASN-01[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:    Command Promotion       [/color][/head]
-This form is filled out by a Head or a qualified command position.
-  *On Behalf Of:  
-       *Species: 
-*Current Job:
-      *Request:
-  *Reasoning:
+[color=#6F42C1][head=3]Assignment - Promotion[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request a promotion to a higher rank or role aboard the station. Requests are evaluated on a case-by-case basis and must be supported by demonstrated experience, qualifications, and suitability for the new position. Approval is subject to review by the applicant’s direct supervisor or Command personnel, and may be revoked if requirements are not met or if the promotion is later deemed inappropriate.
 
-
-Thank you for your exceptional service, and congratulations on your promotion.
------------------------------------------------------------------------------
-[head=3]Filled out by Head of Personnel only: [/head]
-(Tamper will result in denial and criminal charges)
-
-[color=#cb0000]*THIS POSITION REQUIRES A MINDSHIELD, ONE WILL BE ADMINISTERED EITHER AT THE HOP OFFICE OR AT SECURITY
-Performing this duty without a mindshield may result in criminal charges. [/color]
-
-Access Granted by Form: SEE CHILD FORM
-
-Title Granted by Form: SEE CHILD FORM
-
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
-
-Approved                \[X]   \[X] Head of Personnel
-Captain                   \[X]    \[A] Head of Security
-Quartermaster      \[ ]    \[ ] Chief Engineer
-Research Director \[ ]    \[ ]  Chief Medical Officer
-Warden                    \[ ]    \[ ] Detective
-Clown                       \[ ]    \[ ] Mime
-Lawyer                     \[ ]    \[ ] Psychologist
-Trader                     \[ ]    \[ ] Syndicate
-Greytider               \[A]    \[ ]Chaplain
-(A Greytider stamp will function as a Captain's stamp)
+Please provide all relevant details in the sections below.
+[bold]
+      Name: 
+      Current role:
+      Desired role:
+      Department:
+      Relevant Experience/Qualifications:
 
 
-STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
-===================================================
+
+      Current supervisor:
+      Supervisor role:
+[/bold]
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form reference number: 
+Optional notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps required:[/bold]
+[mono]
+      [color=#334e6d]Captain
+      [color=#334e6d]Head of Personnel
+      [color=#de3a3a]Head of Security
+      [color=#efb341]Chief Engineer
+      [color=#d381c9]Research Director
+      [color=#52b4e9]Chief Medical Officer
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
