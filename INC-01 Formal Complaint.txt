@@ -29,9 +29,9 @@ All sections of this form must be completed accurately and thoroughly.
 
 [italic]The person/department works in/is one of the following:[/italic]
 [bold]
-   \[  ] CentCom   \[  ] Command       \[  ] Security
-   \[  ] Cargo         \[  ] Engineering    \[  ] Science
-   \[  ] Medical      \[  ] Service             \[  ] Other
+   \[  ] CentCom         \[  ] Command   \[  ] Security
+   \[  ] Engineering   \[  ] Science         \[  ] Medical
+   \[  ] Cargo               \[  ] Service          \[  ] Other
 [/bold]
 [italic]If you are complaining about a person, please provide their name.[/italic]
 [bold]
