@@ -1,0 +1,61 @@
+                                                                                     [color=#cb0000][head=2]INC-03[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#cb0000][head=3]Incident - Lost Permit Form[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to report the loss of station-issued permit.
+
+[bold]Applicants must understand that lost NT permits are considered a serious misstep and may result in a formal write-up and permanent loss of the permit.
+[/bold]
+
+Please provide all relevant details and any circumstances surrounding its loss.
+[italic]Note: Multiple losses may result in permanent rescinding of the permit.[/italic]
+[bold]
+      Name: 
+      Species: 
+      Current role: 
+
+      Reason for loss:
+            \[  ] Misplaced during duties
+            \[  ] Lost while intoxicated
+            \[  ] Lost during emergency
+            \[  ] Left behind in secure area
+            \[  ] Stolen by crew member
+            \[  ] Accidentally destroyed
+            \[  ] Missing after sleep/unconsciousness
+            \[  ] Confiscated or temporarily held by security
+            \[  ] Unsure/Unknown
+            \[  ] Other: 
+            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+      Additional details:
+
+
+
+
+
+      [  ] This is not my first replacement
+      [italic](Providing false information may result in criminal charges)[/italic]
+[/bold]
+
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
+
+Form Reference Number: 
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      [color=#334e6d]Head of Personnel
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
