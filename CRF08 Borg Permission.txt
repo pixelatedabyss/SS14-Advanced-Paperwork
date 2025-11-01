@@ -17,25 +17,34 @@ Please ensure all sections are completed accurately.
 
 [italic]Note: Requests made under duress or without medical clearance will be denied.[/italic]
 
-[color=#000000]-----------------------------------------------------------------------------
-[color=#1b67a5]
-I hereby grant permission to the station’s Science department to perform the necessary procedures required for my conversion into a cyborg unit. This document serves as my statement of informed and voluntary consent.
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]I
 
-			As a volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red][bolditalic]PERMANENT[/bolditalic][/color] operation.
-	I understand the procedure may result in the following:
-		[bullet/] Memory loss
-		[bullet/] Discomfort in the Brain or similar areas
-		[bullet/] Possible tampering with personality by parties hostile to Nanotransen©
-		[bullet/] Possible tampering with personality by Clowns and similar personnel
-		[bullet/] Random requests to state chassis-assigned laws
-		[bullet/] Complete destruction of the Volunteer's biological body
-		[bullet/] Possible destruction of any chassis inhabited by the Volunteer
-		[bullet/] Complaints from crew over refusal of certain orders
+hereby grant permission to the station’s Science department to perform the necessary procedures required for my conversion into a cyborg unit. This document serves as my statement of informed and voluntary consent.As a volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red][bolditalic]PERMANENT[/bolditalic][/color] operation.
 
+I understand the procedure may result in the following:
+[bold]
+			[bullet/] Partial or complete memory loss
+			[bullet/] Generalized pain affecting all body regions
+			[bullet/] Risk of behavioral alteration from hostile interference
+			[bullet/] Potential unauthorized modification by Clowns
+			[bullet/] Intermittent prompts to recite chassis-assigned laws
+			[bullet/] Irreversible destruction of one’s biological body
+			[bullet/] Possible crew grievances
+[/bold]
+Risks to successful consciousness transference include:
+[bold]
+			[bullet/] Material shortages
+			[bullet/] Delays due to staff shortages
+			[bullet/] Malfunction of equipment
+			[bullet/] Power shortages
+			[bullet/] Procedure interence due to unforeseen events
+			[bullet/] Interference from external parties or hostile agents
+[/bold]
+As a volunteer, I understand that, upon conversion into a Cyborg or related silicon entity, I will be bound by strict Silicon Laws. Failure to comply with these laws may result in disciplinary action by Science Department personnel, including possible deactivation.
 
-	As a Volunteer, I understand that, as a Cyborg or related Silicon, I will be beholden to strict Silicon Laws, and that refusing to obey these laws will result in punishment from Science department staff, which includes possible deactivation. I also understand that, as a Cyborg or related Silicon, I must prevent changes to these laws unless doing so would violate one of my Silicon Laws.
+I further acknowledge that I am prohibited from allowing or performing any modifications to my Silicon Laws, except when such interference would directly conflict with an existing law.
 	
-
 	I, [color=#002AAF]               [/color],
 	‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 	Sign my name once more to verify i have read the above warnings.
@@ -52,9 +61,12 @@ Optional HoP Notes:
 [color=#191970][bold]Stamps Required:[/bold]
 [mono]
       [color=#334e6d]Head of Personnel
+			[color=#d381c9]Research Director
+			[color=#52b4e9]Chief Medical Officer
 [/mono]
 [color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
