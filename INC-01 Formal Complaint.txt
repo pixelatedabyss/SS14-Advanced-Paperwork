@@ -1,0 +1,73 @@
+                                                                                     [color=#cb0000][head=2]AMD-02[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
+
+[color=#cb0000][head=3]Incident - Formal Complaint[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to submit a formal complaint regarding personnel, a department, station procedures, or other matters aboard the station.
+
+All sections of this form must be completed accurately and thoroughly.
+
+[head=2]Section A[/head]
+[bold]
+      Your Name:          
+      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+	  Your Role:          
+      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[/bold]
+[head=2]Section B[/head]
+[bold]You are complaining about:[/bold]
+\[  ] A Person    \[  ] A Department    \[  ] Other
+[italic]If other, please skip to Section C[/italic]
+
+The person/department works in/is one of the following:
+\[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        \[  ] Grey
+\[  ] Med  \[  ] Sec   \[  ] Command   \[  ] CentCom  \[  ] Other
+
+[italic]If you are complaining about a person, please answer the following.[/italic]
+Name:             
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[italic]Please choose category(s) of misconduct the person or department has committed.[/italic]
+\[  ] Violation of Space Law      \[  ] Acting against NT interests
+\[  ] Destruction of Property   \[  ] Causing a disturbance
+\[  ] "Unspeakable Acts"          \[  ] Sabotage of equipment
+\[  ] Theft of Property               \[  ] Overly Bureaucratic
+\[  ] Overly Rude/Mean            \[  ] Not Bureaucratic Enough
+\[  ] Bad Vibes / Irritation
+\[  ] Other:        
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[italic]How many people are affected by the misconduct?[/italic]
+\[  ] Just Me    \[  ] A few people    \[  ] A department worth
+\[  ] Multiple Departments worth    \[  ] Whole Station
+
+[head=2]Section C[/head]
+[bold]Please provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+
+
+
+
+[bold]After you are done filling out this form, please either submit it to the Captain, the HoP, another relevant command head, or to CentCom via fax for review. Please refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold]
+[/bold] 
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tamper will result in denial and criminal charges)[/italic]
+
+Optional HoP Notes:
+
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
+
+[color=#191970][bold]Stamps Required:[/bold]
+[mono]
+      Head of Personnel
+[/mono]
+[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+
+
+
+
