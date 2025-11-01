@@ -1,7 +1,7 @@
 [color=#1b67a5]╔═══════╗
 ║░██░░█░║  [head=2]Nanotrasen Station Permit[/head]   
 ║░█░█░█░║  [bold]Contraband Possession & Usage Permit[/bold]
-║░█░░██░║  [bold]Form Code: AUT-02 | Ref. Num: [/bold]
+║░█░░██░║  [bold]Form Code: AUT-03 | Ref. Num: [/bold]
 ╚═══════╝
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#006d5b][italic]This document serves as an official authorization for the controlled possession and use of contraband aboard the station under approved conditions. This permit is valid only for the individual named below and is subject to immediate revocation by Command or Security personnel.[/italic]
