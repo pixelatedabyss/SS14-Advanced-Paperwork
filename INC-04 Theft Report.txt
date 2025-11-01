@@ -27,7 +27,7 @@
       Description of stolen item(s):
       Witnesses (if any):
 
-      Item Severity:
+      Item severity:
             \[  ] Minor [italic](Personal effects, clothing, common tools)[/italic]
             \[  ] Moderate [italic](Staff IDs, specialist tools, materials)[/italic]
             \[  ] Major [italic](Command staff ID, irreplaceable parts)[/italic]
