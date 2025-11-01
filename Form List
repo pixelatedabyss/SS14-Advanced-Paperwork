@@ -6,9 +6,8 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#000000][head=1]List of forms available:[/head]
+[color=#000000][head=2]List of forms available:[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
 [color=#ff5c00][head=2]Amendment Forms[/head]
 
 [color=#1b67a5]These forms are used to update personnel information, including name changes, job title adjustments, and other official records. All requests require approval from the Head of Personnel.
@@ -28,8 +27,8 @@
       Used to request a promotion to a higher rank or role
       aboard the station.
 [color=#6f42c1][bold]ASN-02: Demotion[/bold][/color]
-[color=#808080][italic](Only used by members of Command.)[/italic][/color]
       Used to initiate a demotion due to disciplinary action.
+      [color=#808080][italic](Only used by members of Command.)[/italic][/color]
 [color=#6f42c1][bold]ASN-03: Reallocation[/bold][/color]
       Used to request a change of role within your current
       department.
@@ -42,29 +41,57 @@
 
 [color=#028a0f][head=2]Authorization Forms[/head]
 
-[color=#1b67a5]These forms are used to request changes to personnel assignments, including promotions, demotions, departmental transfers, or retirement. All requests require approval from the Head of Personnel as well as any relevant department heads.
+[color=#1b67a5]These forms are used to request official permissions aboard the station. This includes access to restricted areas, materials, contraband, construction projects, shuttles, commercial ventures, or specialized procedures. All requests require approval from the Head of Personnel, relevant department heads, or Command, as specified by the form.
 
 [color=#028a0f][bold]AUT-01: Access Request[/bold][/color]
-      Used to request a promotion to a higher rank or role
-      aboard the station.
+      Used to request temporary or permanent access to
+      restricted areas aboard the station.
 [color=#028a0f][bold]AUT-02: Material Request[/bold][/color]
-[color=#808080][italic](Only used by members of Command.)[/italic][/color]
-      Used to initiate a demotion due to disciplinary action.
+      Used to request station materials directly from the Head of
+      Personnel. Only to be used in cases of urgent need.
 [color=#028a0f][bold]AUT-03: Contraband Permit[/bold][/color]
-      Used to request a change of role within your current
-      department.
+      Used to request authorization for controlled possession
+      and use of contraband aboard the station.
 [color=#028a0f][bold]AUT-04: Construction Permit[/bold][/color]
-      Used to request a transfer to a different department aboard
-      the station.
+      Used to request permission to construct new structures
+      aboard the station.
 [color=#028a0f][bold]AUT-05: Shuttle Permit[/bold][/color]
-      Used to request early retirement and return to passenger
-      status.
-[color=#028a0f][bold]AUT-06: Retirment Form[/bold][/color]
-      Used to request early retirement and return to passenger
-      status.
-[color=#028a0f][bold]AUT-07: Retirment Form[/bold][/color]
-      Used to request early retirement and return to passenger
-      status.
-[color=#028a0f][bold]AUT-08: Retirment Form[/bold][/color]
-      Used to request early retirement and return to passenger
-      status.
+      Used to request authorization to build and operate a new
+      shuttle aboard the station.
+[color=#028a0f][bold]AUT-06: Commercial Permit[/bold][/color]
+      Used to request permission to operate a commercial
+      enterprise aboard the station.
+[color=#028a0f][bold]AUT-07: Self-Termination Consent[/bold][/color]
+      Used to submit a formal request for self-termination under
+      station protocols.
+[color=#028a0f][bold]AUT-08: Borgification Consent[/bold][/color]
+      Used to submit a request for voluntary conversion into a
+      station-approved cyborg.
+
+[color=#cb0000][head=2]Incident Forms[/head]
+
+[color=#1b67a5]These forms are used to report events, issues, or irregularities aboard the station. This includes personnel complaints, disciplinary actions, lost items, or thefts. All submissions must be accurate and may be reviewed by Command or relevant department heads.
+
+[color=#cb0000][bold]INC-01: Formal Complaint[/bold][/color]
+      Used to submit a formal complaint regarding personnel,
+      departments or station operations.
+[color=#cb0000][bold]INC-02: Disciplinary Action[/bold][/color]
+      Used to document disciplinary action taken against
+      personnel.
+      [color=#808080][italic](Only used by members of Command.)[/italic][/color]
+[color=#cb0000][bold]INC-03: Lost PDA or ID Card[/bold][/color]
+      Used to report a lost or stolen personal PDA or station ID
+      card.
+[color=#cb0000][bold]INC-04: Lost Permit[/bold][/color]
+      Used to report a lost or stolen station-issued permit.
+[color=#cb0000][bold]INC-05: Theft Report[/bold][/color]
+      Used to report stolen property or assets aboard the station.
+
+[color=#000000][head=2]Security Forms[/head]
+
+[color=#1b67a5]The only security form is used exclusively for issuing an execution order aboard the station. This document may only be completed by the Captain or, in their absence, the Head of Personnel, and is strictly controlled.
+
+[color=#000000][bold]SEC-XX: Execution Order[/bold][/color]
+      Used to formally authorize the execution of a designated
+      individual in accordance with station protocol.
+      [color=#808080][italic](Only used by the Captain.)[/italic][/color]
