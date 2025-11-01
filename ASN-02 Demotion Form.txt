@@ -1,4 +1,4 @@
-                                                                                     [color=#6F42C1][head=2]ASN-02[/head]
+                                                                                     [color=#6f42c1][head=2]ASN-02[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#6F42C1][head=3]Assignment - Demotion[/head]
+[color=#6f42c1][head=3]Assignment - Demotion[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to submit a formal demotion for personnel aboard the station, typically resulting from disciplinary action.
 
