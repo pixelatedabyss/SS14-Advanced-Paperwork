@@ -15,10 +15,8 @@ All sections of this form must be completed accurately and thoroughly.
 
 [head=2]Section A[/head]
 [bold]
-      Your Name:    
-      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-      Your Role: 
-      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+      Your name:    
+      Your role: 
 [/bold]
 [head=2]Section B[/head]
 
@@ -36,7 +34,6 @@ All sections of this form must be completed accurately and thoroughly.
 [italic]If you are complaining about a person, please provide their name.[/italic]
 [bold]
    Name:             
-   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [/bold]
 [italic]Please choose category(s) of misconduct the person or department has committed.[/italic]
 [bold]
