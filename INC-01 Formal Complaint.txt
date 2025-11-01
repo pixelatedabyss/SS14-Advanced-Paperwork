@@ -1,4 +1,4 @@
-                                                                                 [color=#cb0000][head=2]INC-01[/head]
+                                                                                     [color=#cb0000][head=2]INC-01[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -79,3 +79,4 @@ Optional HoP Notes:
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
 [color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
+
