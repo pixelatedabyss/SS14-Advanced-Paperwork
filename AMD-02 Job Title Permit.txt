@@ -20,7 +20,7 @@ Please provide the crew member’s current job title, name, and the requested ti
       Desired Title: 
 [/bold] 
 [color=#000000]-----------------------------------------------------------------------------
-[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
 [italic](Tampering will result in denial and criminal charges)[/italic]
 
 Optional HoP Notes:
@@ -31,8 +31,9 @@ Optional HoP Notes:
 [mono]
       [color=#334e6d]Head of Personnel
 [/mono]
-[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
