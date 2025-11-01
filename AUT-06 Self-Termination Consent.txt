@@ -11,7 +11,7 @@
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to request authorization for voluntary euthanasia under Nanotrasen policy and station medical protocols. The procedure is to be carried out only under verified consent and in the presence of authorized Medical or Command personnel.
 
-By submitting this form, the volunteer acknowledges full understanding that this procedure will result in [color=red][color=red][bolditalic]PERMANENT TERMINATION OF LIFE FUNCTIONS[/bolditalic][/color], and that revival or cloning may be denied under station policy.
+By submitting this form, the volunteer acknowledges full understanding that this procedure will result in [color=red][bolditalic]PERMANENT TERMINATION OF LIFE FUNCTIONS[/bolditalic][/color], and waives any right to revival or cloning so as not to waste station resources.
 
 [bold]Applicants must understand that this process is irreversible and will result in the complete replacement of biological components with mechanical systems.[/bold]
 
@@ -71,4 +71,5 @@ Optional HoP Notes:
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
 [color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
+
 
