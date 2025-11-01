@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#ff5c00][head=3]Amendment - Job Title Change Permit[/head]
+[color=#ff5c00][head=3]Amendment - Job Title Form[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to change the job title of the crew member in question.
 
@@ -35,3 +35,4 @@ Optional notes:
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
 [color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
+
