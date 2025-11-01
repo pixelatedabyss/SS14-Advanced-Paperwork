@@ -56,7 +56,7 @@ Method of termination:
       \[ ] Burning
       [color=808080][italic](Requires approval from Chief Engineer)[/italic][/color]
       \[ ] Spacing
-      \[ ] Firing squad
+      \[ ] Firing line
       [color=808080][italic](Requires approval from Head of Security)[/italic][/color]
       \[ ] Explosion
       [color=808080][italic](Requires approval from Captain)[/italic][/color]
