@@ -21,7 +21,7 @@ It should only be used in cases of dire need; routine material requests must be 
       Reasoning: 
 [/bold] 
 [color=#000000]-----------------------------------------------------------------------------
-[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
 [italic](Tamper will result in denial and criminal charges)[/italic]
 
 Optional HoP Notes:
@@ -30,10 +30,11 @@ Optional HoP Notes:
 
 [color=#191970][bold]Stamps Required:[/bold]
 [mono]
-      [color=#334E6D]Head of Personnel
+      [color=#334e6d]Head of Personnel
 [/mono]
-[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
