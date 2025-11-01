@@ -9,7 +9,7 @@
 
 [color=#028a0f][head=3]Authorization - Shuttle Permit[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]This form is used to request permission to construct and operate a commercial shuttle aboard the station. Requests are evaluated on a case-by-case basis, and approval may be revoked at any time by the Chief Engineer or Captain.
+[color=#1b67a5]This form is used to request permission to construct and operate a shuttle aboard the station. Requests are evaluated on a case-by-case basis, and approval may be revoked at any time by the Chief Engineer or Captain.
 
 Requests to construct a shuttle are limited to personnel with verified Engineering and Atmospherics experience.
 
@@ -43,3 +43,4 @@ Optional notes:
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
 [color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
+
