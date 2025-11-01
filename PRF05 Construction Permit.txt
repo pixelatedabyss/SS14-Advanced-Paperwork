@@ -1,50 +1,40 @@
-#Construction Permit PRF05 
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                 PARENT FORM: PRF05     [/head]
-                 -- This document is tied to Child Forms:--         [/color]
-                                       [color=#1b67a5][head=3]NanoTrasen[/ head]
-     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█  
-(* = A Required Field)
+                                                                                     [color=#028a0f][head=2]AUT-04[/head]
+                          [color=#1b67a5]╔═══════════════════╗
+                          ║░███░███░░░░██░░░░░║
+                          ║░░██░████░░░██░░░░░║
+                          ║░░░█░██░██░░██░█░░░║
+                          ║░░░░░██░░██░██░██░░║
+                          ║░░░░░██░░░████░███░║
+                          ╚═══════════════════╝
 
-[color=#028a0f][head=3]PARENT FORM:  Construction Permit      [/head]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-This form, when properly stamped, provides construction permission to construct and modify a room or space as described above. This document is typically paired with a Title Request Form, a Shop Permit, and a sealed Labor Order for assistance.
+[color=#028a0f][head=3]Authorization - Construction Permit[/head]
+[color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]This form is used to request permission to undertake a construction project aboard the station. Requests are evaluated on a case-by-case basis, and approval may be revoked at any time by the Chief Engineer or Captain.
 
-          *Name:  
-       *Species: 
-*Current Job:
-      *Request: To construct the following service area or object:
-[/bullet]
-[/bullet]
-      *Applicable Room: Any spare unlabelled room.
-  *Reasoning:
+Construction projects must be supported by a valid and necessary reason. While the requester does not need to be an engineer, a qualified engineer must be assigned to oversee the project if the requester lacks the required technical expertise.
 
------------------------------------------------------------------------------
-[head=3]Filled out by Head of Personnel only: [/head]
-(Tamper will result in denial and criminal charges)
+Please provide all relevant details in the sections below.
+[bold]
+      Name: 
+      Current role:
 
-Optional Notes from HoP: 
+      Purpose: 
+      Location: 
+[/bold]
+[color=#000000]-----------------------------------------------------------------------------
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
+[italic](Tampering will result in denial and criminal charges)[/italic]
 
-[bold]*Stamps Required: HoP will adjust as needed.[/bold]
- Form is validated by the HoP stamp, approved separately.
- (A = Alternative if the primary is unavailable, not assured.)
+Form reference number: 
+Optional notes:
 
-Approved                \[X]   \[X] Head of Personnel
-Captain                   \[A]    \[ ] Head of Security
-Quartermaster      \[ ]    \[X] Chief Engineer
-Research Director \[ ]    \[ ]  Chief Medical Officer
-Warden                    \[ ]    \[ ] Detective
-Clown                       \[ ]    \[ ] Mime
-Lawyer                     \[ ]    \[ ] Psychologist
-Trader                     \[A]    \[ ] Syndicate
-Greytider               \[A]    \[ ]Chaplain
-(A Greytider stamp will function as a Captain's stamp)
+[color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
 
-STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
-===================================================
+[color=#191970][bold]Stamps required:[/bold]
+[mono]
+      [color=#334e6d]Head of Personnel
+      [color=#efb341]Chief Engineer
+[/mono]
+[color=#808080][bold]STAMP BELOW[/bold]
+[color=#000000]=================================================
+[color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
