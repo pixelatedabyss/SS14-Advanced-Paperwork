@@ -1,4 +1,4 @@
-                                                                                     [color=#6F42C1][head=2]ASN-05[/head]
+                                                                                     [color=#6f42c1][head=2]ASN-05[/head]
                           [color=#1b67a5]╔═══════════════════╗
                           ║░███░███░░░░██░░░░░║
                           ║░░██░████░░░██░░░░░║
@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#6F42C1][head=3]Assignment - Retirement[/head]
+[color=#6f42c1][head=3]Assignment - Retirement[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to request early retirement from a role aboard the station. Early retirement will be granted; however, the applicant acknowledges that they will no longer be eligible to request any new positions aboard the station. Upon retirement, the applicant’s status will revert to that of a passenger, and they agree to forfeit all pay and associated privileges. Approval is final and processed by Command personnel.
 
