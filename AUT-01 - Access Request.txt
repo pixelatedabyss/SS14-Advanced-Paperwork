@@ -9,13 +9,13 @@
 
 [color=#028a0f][head=3]Authorization - Access Request[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]This form is used to request materials from the Head of Personnel.
+[color=#1b67a5]This form is used to request access to restricted areas aboard the station.
 
-It should only be used in cases of dire need; routine material requests must be submitted through the appropriate departmental request terminal.
+Normally, access to restricted areas should be accompanied by authorized staff. Permanent access should only be requested when it is required for the role and frequent, routine entry is necessary. Approval from the relevant department heads for their respective areas is also required.
 
 [italic]Note: Unreasonable requests will be automatically denied.[/italic]
 [bold]
-      Materials requested:
+      Access requested:
 
 
       Reasoning: 
@@ -29,11 +29,15 @@ Optional notes:
 
 [color=#1b67a5][italic]All forms must be validated by the Head of Personnel and approved separately. If the Head of Personnel is unavailable, the Captain may authorize this form in their place.[/italic]
 
-[color=#191970][bold]Stamps Required:[/bold]
+[color=#191970][bold]Stamps required:[/bold]
 [mono]
+      [color=#334e6d]Captain
       [color=#334e6d]Head of Personnel
+      [color=#de3a3a]Head of Security
+      [color=#efb341]Chief Engineer
+      [color=#d381c9]Research Director
+      [color=#52b4e9]Chief Medical Officer
 [/mono]
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
 [color=#808080][italic]Form template first issued under authority of Seeks-Her-Job, Command Secretary of Harmony[/italic]
-
