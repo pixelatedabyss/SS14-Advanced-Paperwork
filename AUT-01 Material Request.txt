@@ -13,7 +13,7 @@
 
 It should only be used in cases of dire need; routine material requests must be submitted through the appropriate departmental request terminal.
 
-[italic]Note: Unreasonable or inappropriate requests will be automatically denied.[/italic]
+[italic]Note: Unreasonable requests will be automatically denied.[/italic]
 [bold]
       Materials requested:
 
@@ -30,10 +30,11 @@ Optional HoP Notes:
 
 [color=#191970][bold]Stamps Required:[/bold]
 [mono]
-      Head of Personnel
+      [color=#334E6D]Head of Personnel
 [/mono]
 [color=#006D5B][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
