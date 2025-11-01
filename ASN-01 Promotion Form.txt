@@ -7,7 +7,7 @@
                           ║░░░░░██░░░████░███░║
                           ╚═══════════════════╝
 
-[color=#6F42C1][head=3]Assignment - Promotion[/head]
+[color=#6f42c1][head=3]Assignment - Promotion[/head]
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to request a promotion to a higher rank or role aboard the station. Requests are evaluated on a case-by-case basis and must be supported by demonstrated experience, qualifications, and suitability for the new position. Approval is subject to review by the applicant’s direct supervisor or Command personnel, and may be revoked if requirements are not met or if the promotion is later deemed inappropriate.
 
