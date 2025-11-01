@@ -47,7 +47,7 @@ I agree to never:
            the Captain.
 [/bold]
 [color=#000000]-----------------------------------------------------------------------------
-[color=#006D5B][head=3]Filled out by Captain only: [/head]
+[color=#006d5b][head=3]Filled out by Captain only: [/head]
 [italic](Tampering will result in denial and criminal charges)[/italic]
 
 [color=#1b67a5]The Captain authorizes the following punishments in the event of a breach of this agreement:
@@ -73,7 +73,7 @@ The Head of Security may also deny this request, even if approved, if they deter
 [color=#aa4a44][bold]Please note, syndicate contraband cannot be granted a permit, THERE ARE NO EXCEPTIONS.[/bold]
 
 [color=#000000]-----------------------------------------------------------------------------
-[color=#006D5B][head=3]Filled out by Head of Personnel only: [/head]
+[color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
 [italic](Tampering will result in denial and criminal charges)[/italic]
 
 Optional HoP Notes:
@@ -86,8 +86,9 @@ Optional HoP Notes:
       [color=#334e6d]Head of Personnel
       [color=#de3a3a]Head of Security
 [/mono]
-[color=#006D5B][bold]STAMP BELOW[/bold]
+[color=#006d5b][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
