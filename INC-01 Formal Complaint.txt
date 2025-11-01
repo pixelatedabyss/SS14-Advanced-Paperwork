@@ -15,8 +15,8 @@ All sections of this form must be completed accurately and thoroughly.
 
 [head=2]Section A[/head]
 [bold]
-      Your name:    
-      Your role: 
+      Complainant name:    
+      Complainant role: 
 [/bold]
 [head=2]Section B[/head]
 
@@ -33,7 +33,7 @@ All sections of this form must be completed accurately and thoroughly.
 [/bold]
 [italic]If you are complaining about a person, please provide their name.[/italic]
 [bold]
-   Name:             
+   Respondent name:             
 [/bold]
 [italic]Please choose category(s) of misconduct the person or department has committed.[/italic]
 [bold]
