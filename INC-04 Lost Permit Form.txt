@@ -11,10 +11,9 @@
 [color=#000000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]This form is used to report the loss of station-issued permit.
 
-[bold]Applicants must understand that lost NT permits are considered a serious misstep and may result in a formal write-up and permanent loss of the permit.
-[/bold]
-
+[bold]Applicants must understand that lost NT permits are considered a serious misstep and may result in a formal write-up and permanent loss of the permit.[/bold]
 Please provide all relevant details and any circumstances surrounding its loss.
+
 [italic]Note: Multiple losses may result in permanent rescinding of the permit.[/italic]
 [bold]
       Name: 
