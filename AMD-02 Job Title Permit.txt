@@ -15,9 +15,9 @@ Please provide the crew member’s current job title, name, and the requested ti
 
 [italic]Note: Unreasonable or inappropriate requests will be automatically denied.[/italic]
 [bold]
-      Current Title: 
+      Current title: 
       Name: 
-      Desired Title: 
+      Desired title: 
 [/bold] 
 [color=#000000]-----------------------------------------------------------------------------
 [color=#006d5b][head=3]Filled out by Head of Personnel only: [/head]
