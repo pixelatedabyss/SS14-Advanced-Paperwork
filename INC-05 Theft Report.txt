@@ -32,8 +32,8 @@
             \[  ] Moderate [italic](Staff IDs, specialist tools, materials)[/italic]
             \[  ] Major [italic](Command staff ID, irreplaceable parts)[/italic]
 
-      Is the item contraband?
-      Is the item a weapon?
+      \[  ] Is the item contraband?
+      \[  ] Is the item a weapon?
 
       Detailed description of events leading to the theft:
 
