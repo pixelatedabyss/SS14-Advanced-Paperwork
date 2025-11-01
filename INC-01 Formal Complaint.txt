@@ -15,10 +15,10 @@ All sections of this form must be completed accurately and thoroughly.
 
 [head=2]Section A[/head]
 [bold]
-      Your Name:          
-      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-	  Your Role:          
-      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+			Your Name:          
+			‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+			Your Role:          
+			‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [/bold]
 [head=2]Section B[/head]
 [bold]You are complaining about:[/bold]
@@ -67,6 +67,7 @@ Optional HoP Notes:
 [/mono]
 [color=#006D5B][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
+
 
 
 
