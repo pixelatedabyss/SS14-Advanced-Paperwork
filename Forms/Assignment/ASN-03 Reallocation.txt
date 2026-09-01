@@ -43,6 +43,7 @@ Optional notes:
       [color=#efb341]Chief Engineer
       [color=#d381c9]Research Director
       [color=#52b4e9]Chief Medical Officer
+      [color=#a46106]Quartermaster
 [/mono]
 [color=#808080][bold]STAMP BELOW[/bold]
 [color=#000000]=================================================
